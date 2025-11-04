@@ -3,3 +3,7 @@ body{
     color: antiquewhite;
     font-family: 'Courier New', Courier, monospace;
 }
+p{
+    font-weight: bolder;
+    font-size: larger;
+}
